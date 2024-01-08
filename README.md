@@ -1,9 +1,9 @@
 <h2 align="center">
-  Send, Stake and Receive with PIVX's most universal wallet.
+  Send, Stake and Receive with BTAD's most universal wallet.
 </h2>
 
 <p align="center">
-  <a href="https://mypivxwallet.org/">Production</a> (Stable) | <a href="https://pivx-labs.github.io/MyPIVXWallet/">Bleeding-Edge</a> (Unstable)
+  <a href="https://mybtadwallet.org/">Production</a> (Stable) | <a href="https://github.io/MyBTADWallet/">Bleeding-Edge</a> (Unstable)
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 ## Be your own Bank
 
-MPW is a completely [non-custodial](https://www.bitcoin.com/get-started/custodial-non-custodial-bitcoin-wallets/), client-side system, giving you absolute control over your funds, data, bandwidth and privacy... all of which are essential to easily-attainable **self-sovereignty**.
+MbW is a completely [non-custodial](https://www.bitcoin.com/get-started/custodial-non-custodial-bitcoin-wallets/), client-side system, giving you absolute control over your funds, data, bandwidth and privacy... all of which are essential to easily-attainable **self-sovereignty**.
 
 <br>
 
@@ -26,7 +26,7 @@ MPW is a completely [non-custodial](https://www.bitcoin.com/get-started/custodia
 
 ## Universal and Portable
 
-MPW is completely universal and portable, at both a user-experience level & protocol-level, MPW is interopable with much of the functionality within PIVX, while also being portable enough to run on almost **any device in the world**.
+MBW is completely universal and portable, at both a user-experience level & protocol-level, MBW is interopable with much of the functionality within BTAD, while also being portable enough to run on almost **any device in the world**.
 
 <br>
 
@@ -38,8 +38,10 @@ MPW is completely universal and portable, at both a user-experience level & prot
 
 ## Don't trust, Verify!
 
-MPW is completely free, open-source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)), with absolute transparency in security, features, down to every letter of code.<br>
-Alongside total codebase availability, MPW allows you to totally bunker-down, with the ability to customize your experience in accordance to your [principles](https://en.wikipedia.org/wiki/Free_and_open-source_software#Four_essential_freedoms_of_Free_Software) & security desires.
+MBW is completely free, open-source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)), with absolute transparency in security, features, down to every letter of code.<br>
+Alongside total codebase availability, MBW allows you to totally bunker-down, with the ability to customize your experience in accordance to your [principles](https://en.wikipedia.org/wiki/Free_and_open-source_software#Four_essential_freedoms_of_Free_Software) & security desires.
+
+MBW is forked from original MyPIVXwallet !
 
 <br>
 
@@ -51,9 +53,9 @@ Alongside total codebase availability, MPW allows you to totally bunker-down, wi
 
 ## By the Community, for the Community
 
-MPW is built with love by [PIVX Labs](https://github.com/PIVX-Labs), a micro-DAO of [awesome people](https://github.com/PIVX-Labs/MyPIVXWallet/graphs/contributors) that build both FOSS and Proprietary software for the PIVX community to enjoy.
+MBW is forked with love by [B1ackt34](https://github.com/B1ackt34).
 
-The mission of PIVX Labs is to accelerate the adoption & growth of PIVX as a currency, using awesomeness. Join the [PIVX Labs Discord](https://discord.gg/v57eCP4MMx) to meet us!
+The mission of BTAD is to accelerate the adoption & growth of BTAD as a currency and its integrated system. Join the [Bitcoin Adult Discord](https://discord.gg/55HXR5MBKJ) to meet us!
 
 <br>
 
