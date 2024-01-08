@@ -1,7 +1,7 @@
 {
-    "name": "mypivxwallet",
-    "version": "1.4.0",
-    "description": "Wallet for PIVX",
+    "name": "myBTADwallet",
+    "version": "1.0.0",
+    "description": "Wallet for Bitcoin Adult",
     "main": "scripts/index.js",
     "type": "module",
     "scripts": {
@@ -17,19 +17,20 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/PIVX-Labs/MyPIVXWallet.git"
+        "url": "git+https://github.com/B1ackt34/MyBTADWallet.git"
     },
     "keywords": [
         "crypto",
-        "PIVX",
-        "wallet"
+        "btad",
+        "wallet",
+        "Bitcoin Adult"
     ],
-    "author": "PIVX Labs",
+    "author": "Bitcoin Adult",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/PIVX-Labs/MyPIVXWallet/issues"
+        "url": "https://github.com/B1ackt34/MyBTADWallet/issues"
     },
-    "homepage": "https://github.com/PIVX-Labs/MyPIVXWallet#readme",
+    "homepage": "https://github.com/B1ackt34/MyBTADWallet#readme",
     "devDependencies": {
         "@fluent/langneg": "^0.7.0",
         "@types/lodash-es": "^4.17.6",
